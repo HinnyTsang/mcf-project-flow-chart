@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T11:54:29.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="r6vkQ-5ggx09BYJAWF_Z" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T11:56:25.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="2UWEATjA7y-ImfEl6ZJm" type="github">
   <diagram id="vsrU6-lVx80XLmrdg9ZK" name="Page-1">
-    <mxGraphModel dx="855" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="576" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         <mxCell id="5mSeb0uj8Du_HHENsvcH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-13" target="5mSeb0uj8Du_HHENsvcH-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-13" target="5mSeb0uj8Du_HHENsvcH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-13" value="Combined &lt;br style=&quot;font-size: 8px;&quot;&gt;cloud pool" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fontSize=8;fillColor=default;spacing=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="225" width="70" height="40" as="geometry" />
         </mxCell>
@@ -69,10 +72,10 @@
         <mxCell id="5mSeb0uj8Du_HHENsvcH-19" value="\(\perp\) cloud&lt;br style=&quot;font-size: 8px;&quot;&gt;simulation" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=8;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mSeb0uj8Du_HHENsvcH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-20" target="5mSeb0uj8Du_HHENsvcH-70">
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.611;entryY=-0.03;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-20" target="5mSeb0uj8Du_HHENsvcH-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="245" />
+              <mxPoint x="465" y="245" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,7 +94,7 @@
         <mxCell id="5mSeb0uj8Du_HHENsvcH-22" value="\(\Delta(\mathbf{SFE}&lt;br style=&quot;font-size: 8px;&quot;&gt;\%)\)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mSeb0uj8Du_HHENsvcH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-23" target="5mSeb0uj8Du_HHENsvcH-70">
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.611;entryY=0.995;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-23" target="5mSeb0uj8Du_HHENsvcH-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-23" value="B-cloud alignment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
@@ -120,8 +123,8 @@
         <mxCell id="5mSeb0uj8Du_HHENsvcH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-70" target="5mSeb0uj8Du_HHENsvcH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mSeb0uj8Du_HHENsvcH-70" value="Naive Bayes Classifier" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=8;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="419.92" y="251.02" width="100.16" height="10" as="geometry" />
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-70" value="Naive Bayes Classifier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.1;fontSize=8;rotation=-90;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="419.41" y="251.53" width="100.16" height="8.98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
