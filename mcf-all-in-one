@@ -1,1 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T07:44:11.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="ay0XEob-zb0QmAFcJXI0" type="github"><diagram id="9MLFSEVgly7n_Vq9Bx2L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-16T08:30:50.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="fo2RnMw9dXt_BW2y0Ro_" type="github">
+  <diagram id="vsrU6-lVx80XLmrdg9ZK" name="Page-1">
+    <mxGraphModel dx="972" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-71" value="Section&amp;nbsp; 4" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-67" value="Section 3&lt;br&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="140" y="185" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-66" value="Section 1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="185" width="90" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Random projections&lt;br style=&quot;font-size: 8px;&quot;&gt;\(10^3\) each&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-9" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-11" value="\(p\)" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-12" value="\(n-p\)" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="225" y="260" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-13" target="5mSeb0uj8Du_HHENsvcH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-13" target="5mSeb0uj8Du_HHENsvcH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-13" target="5mSeb0uj8Du_HHENsvcH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-13" value="Combined &lt;br style=&quot;font-size: 8px;&quot;&gt;cloud pool" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fontSize=8;fillColor=default;spacing=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="225" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-14" target="5mSeb0uj8Du_HHENsvcH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-14" value="Distribution of&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;\(\Delta(\mathbf{MCF \;slope}&lt;br style=&quot;font-size: 8px;&quot;&gt;)\)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="170" width="77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-15" value="Likelihood of \(p\)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-16" value="Distribution of&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;\(\Delta(\mathbf{CGF}&lt;br style=&quot;font-size: 8px;&quot;&gt;\%)\)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.069;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-17" target="5mSeb0uj8Du_HHENsvcH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-17" value="\( \perp \) cloud&lt;br style=&quot;font-size: 8px;&quot;&gt;simulation" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.078;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-19" target="5mSeb0uj8Du_HHENsvcH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-19" value="\(\parallel\) cloud&lt;br style=&quot;font-size: 8px;&quot;&gt;simulation" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-20" target="5mSeb0uj8Du_HHENsvcH-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-20" value="Distribution of B-cloud alignment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="372" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-21" target="5mSeb0uj8Du_HHENsvcH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-21" value="\(\Delta\)(MCF-slope)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-22" target="5mSeb0uj8Du_HHENsvcH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-22" value="\(\Delta(\mathbf{SFE}&lt;br style=&quot;font-size: 8px;&quot;&gt;\%)\)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-23" target="5mSeb0uj8Du_HHENsvcH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-23" value="MCF vs. B-cloud alignment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-24" target="5mSeb0uj8Du_HHENsvcH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-24" target="5mSeb0uj8Du_HHENsvcH-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-24" target="5mSeb0uj8Du_HHENsvcH-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-24" value="Observed&lt;br style=&quot;font-size: 8px;&quot;&gt;cloud pool" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="215" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-70" target="5mSeb0uj8Du_HHENsvcH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-70" value="Naive Bayes Classifier" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=8;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="241.25" width="122.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-88" value="Section&amp;nbsp; 2" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="180" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
