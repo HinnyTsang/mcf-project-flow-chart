@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:19:16.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="n6A7hz3MH6SDpX8PsHqD" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T13:33:51.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EJQ6DCKKvfLy8XY13-6m" version="20.7.3" type="github">
   <diagram id="vsrU6-lVx80XLmrdg9ZK" name="Page-1">
-    <mxGraphModel dx="726" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1430" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5mSeb0uj8Du_HHENsvcH-71" value="Section \(2d\)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="270" y="160" width="210" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-88" value="Section \(2a\)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="486.06" y="160" width="180" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="5mSeb0uj8Du_HHENsvcH-71" value="Section \(2d\)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="270" y="160" width="210" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-67" value="Section \(2c\)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=8;fillColor=none;dashed=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="140" y="185" width="120" height="125" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="373.5" y="170" width="77" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-15" value="Likelihood of \(p\)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="390" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="335" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;fontSize=8;endArrow=none;endFill=0;" parent="1" source="5mSeb0uj8Du_HHENsvcH-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -122,7 +122,7 @@
         <mxCell id="5mSeb0uj8Du_HHENsvcH-24" value="Observed&lt;br style=&quot;font-size: 8px;&quot;&gt;cloud pool" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=8;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="596.06" y="215" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5mSeb0uj8Du_HHENsvcH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=8;endArrow=classic;endFill=1;" parent="1" source="5mSeb0uj8Du_HHENsvcH-70" target="5mSeb0uj8Du_HHENsvcH-15" edge="1">
+        <mxCell id="Han7O5wRG9KADySwMK-A-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mSeb0uj8Du_HHENsvcH-70" target="5mSeb0uj8Du_HHENsvcH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5mSeb0uj8Du_HHENsvcH-70" value="Naive Bayes Classifier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.1;fontSize=8;rotation=-90;fillColor=default;strokeColor=default;" parent="1" vertex="1">
